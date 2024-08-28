@@ -3,7 +3,7 @@
 
 - **Designed and created by : Chetan Seth**
    
- ** Pre Req.:**
+**Pre Req.:**
 
 - Build URL: https://www.makemytrip.com/
 
