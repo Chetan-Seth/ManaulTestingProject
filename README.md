@@ -1,7 +1,7 @@
 
 # Manual Testing Project
 
-# - Pre Req:
+- Pre Req.:
 
 - Build URL: https://www.makemytrip.com/
 
