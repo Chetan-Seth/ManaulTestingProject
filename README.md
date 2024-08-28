@@ -1,4 +1,3 @@
-# ManaulTestingProject1
 
 # Manual Testing Project
 
