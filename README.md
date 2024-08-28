@@ -1,7 +1,8 @@
 
 # Manual Testing Project
-- Designed and created by : Chetan Seth
-- 
+
+- **Designed and created by : Chetan Seth**
+   
 - Pre Req.:
 
 - Build URL: https://www.makemytrip.com/
