@@ -1,11 +1,12 @@
 
 # Manual Testing Project
 
-Pre Req:
-#Build URL: https://www.makemytrip.com/
+# - Pre Req:
 
-#Browser : Chrome Browser
+- Build URL: https://www.makemytrip.com/
 
-#Designed and created by : Chetan Seth
+- Browser : Chrome Browser
 
-#Reviewed by : QA Team 
+- Designed and created by : Chetan Seth
+
+- Reviewed by : QA Team 
