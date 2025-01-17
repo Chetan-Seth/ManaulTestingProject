@@ -9,4 +9,4 @@
 
 - Browser : Chrome Browser
 
-- Reviewed by : QA Team 
+- Reviewed by : QA  Team 
